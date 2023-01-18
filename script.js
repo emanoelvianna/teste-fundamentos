@@ -5,5 +5,3 @@ function soma(a, b) {
 function mult() {
     // TODO:
 }
-
-console.log(soma(10, 10));
